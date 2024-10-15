@@ -3,6 +3,8 @@ import json
 from io import BytesIO
 from resume_parser.parse_resume import parser
 
+st.set_page_config(page_title="FactoryKaam", page_icon="🛠️")
+
 def resume_formatter(data):
     formatted_data = f"""
 **Full Name**: {data.get("Full Name", "N/A")}
