@@ -6,7 +6,7 @@ This application is a resume parser built using Streamlit and Google Generative 
 
 ## Live
 
-[Live Demo](#https://factorykaam.streamlit.app/)
+[Live Demo](https://factorykaam.streamlit.app/)
 
 ## Features
 
