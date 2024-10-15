@@ -1,5 +1,5 @@
 streamlit
-PyMuPDF
-resume-parser
-google-generativeai
+PyPDF2
 python-dotenv
+google-generativeai
+spacy
