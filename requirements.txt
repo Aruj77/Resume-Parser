@@ -1,0 +1,5 @@
+streamlit
+PyMuPDF
+resume-parser
+google-generativeai
+python-dotenv
